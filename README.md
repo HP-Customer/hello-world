@@ -1,2 +1,4 @@
 # hello-world
-Proyecto para prácticas
+Proyecto para prácticas para Github
+
+### Hola Sogeti
